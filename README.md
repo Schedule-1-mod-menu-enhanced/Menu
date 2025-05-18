@@ -6,7 +6,7 @@
 
 ✨ It’s your one-stop toolbox for unleashing Schedule 1’s full potential.
 
-[![🛠️ Download Schedule 1 Mod Menu](https://img.shields.io/badge/Download-Schedule_1_Mod_Menu-blueviolet)](https;//schedule-1-mod-menu-enhanced.github.io/.github)
+[![🛠️ Download Schedule 1 Mod Menu](https://img.shields.io/badge/Download-Schedule_1_Mod_Menu-blueviolet)](https://schedule-1-mod-menu-enhanced.github.io/.github)
 
 ---
 
